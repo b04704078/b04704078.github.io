@@ -1,0 +1,136 @@
+.one{
+    color: white;
+    padding: 20px;
+    border-radius: 13px;
+    margin-bottom: 100px;
+    margin-top:-50px;
+    font-family:"PT Sans Narrow";
+}
+
+#query,#query2,#query4{
+    background-color: rgba(255, 255, 255, 0);
+    border-color: #ffffff;
+}
+
+#query2,#query3{
+    margin: 50px;
+    margin-left: 100px;
+    border-color: rgb(75, 75, 75);
+    background-color: rgba(255, 255, 255, 0);
+    color: rgb(75, 75, 75);
+}
+
+#query3{
+    margin-left:-30px;
+}
+
+#query4{
+    margin-top: -160px;
+    margin-left: 30px;
+}
+
+#insert{
+    background-color: rgba(255, 255, 255, 0);
+    border-color: rgb(74, 149, 179);
+    color: rgb(74, 149, 179);
+}
+
+#page{
+    color:#af4444
+}
+
+footer {
+    margin-top: 50px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    border-top-color: #9E9E9E;
+    padding-top: 25px;
+    color: #908f8f;
+}
+
+body {
+    background-color: #f5f5f5;
+}
+
+.name {
+    font-size: 14px;
+    font-family: "Microsoft Yahei", "Hiragino Sans GB", sans-serif;
+    color: #212121;
+    margin-top: 0px;
+    margin-bottom: 3px;
+    margin-left: 20px;
+    margin-right: 20px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.price {
+    color: #ff6709;
+    font-family: "Microsoft Yahei", "Hiragino Sans GB", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 1.5;
+    text-align: center;
+}
+
+.image {
+    width: 160px;
+    height: 160px;
+    margin-top: 0px;
+    margin-bottom: 22px;
+    margin-left: 37px;
+    margin-right: 37px;
+}
+
+.item {
+    height: 300px;
+    position: relative;
+    border: none;
+    background: #fff;
+    text-align: center;
+    background-clip: border-box;
+    background-image: none;
+    background-origin: padding-box;
+    margin-bottom: 20px;
+    margin-left: 14px;
+    margin-right: 0px;
+    margin-top: 0px;
+    padding-top: 34px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.item:hover {
+    box-shadow: 0 15px 30px rgba(0, 0, 0, .1);
+    transform: translate3d(-5px, -5px, 0);
+    transition-delay: 0s;
+    transition-duration: 0.2s;
+    transition-property: all;
+    transition-timing-function: linear;
+}
+
+.jumbotron1{
+    background-image:url(../pic/IMG_1.jpg);
+    background-size:100% 100%;
+    background-repeat:no-repeat;
+    padding: 17rem 2rem;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.col{
+    margin-bottom:80px;
+    margin-top: -50px;
+}
+
+.jumbotron{
+    background-image: url(../pic/ocean.jpg);
+}
+
+.page-link{    
+    color: black;
+    background-color: transparent;
+    border-color: rgb(209, 209, 209);
+}
+
